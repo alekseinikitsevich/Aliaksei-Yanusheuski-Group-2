@@ -1,0 +1,149 @@
+2014-10-05 20:26:21,701 - MenuLogging - INFO - Hello!
+2014-10-05 20:26:21,706 - MenuLogging - INFO - Please enter code from 1 to 3. For end enter "exit"
+2014-10-05 20:26:29,121 - MenuLogging - ERROR - Error ))) : java.lang.ClassNotFoundException: com.alex.myapp.MyApp
+2014-10-05 20:26:29,121 - MenuLogging - INFO - Please enter code from 1 to 3. For end enter "exit"
+2014-10-05 20:29:29,109 - MenuLogging - INFO - Hello!
+2014-10-05 20:29:29,113 - MenuLogging - INFO - Please enter code from 1 to 3. For end enter "exit"
+2014-10-05 20:29:33,194 - MenuLogging - INFO - 5A12X3P
+2014-10-05 20:29:33,194 - MenuLogging - INFO - Please enter code from 1 to 3. For end enter "exit"
+2014-10-05 20:38:52,495 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:39:00,543 - Menu - INFO - Open Methods: 
+2014-10-05 20:39:00,544 - Menu - INFO - Name: getCode
+2014-10-05 20:39:00,544 - Menu - INFO -  
+2014-10-05 20:39:00,545 - Menu - INFO - Name: getClass
+2014-10-05 20:39:00,549 - Menu - INFO -  
+2014-10-05 20:39:00,549 - Menu - INFO - Name: hashCode
+2014-10-05 20:39:00,549 - Menu - INFO -  
+2014-10-05 20:39:00,550 - Menu - INFO - Name: equals
+2014-10-05 20:39:00,550 - Menu - INFO -  
+2014-10-05 20:39:00,551 - Menu - INFO - Name: toString
+2014-10-05 20:39:00,551 - Menu - INFO -  
+2014-10-05 20:39:00,551 - Menu - INFO - Name: notify
+2014-10-05 20:39:00,553 - Menu - INFO -  
+2014-10-05 20:39:00,553 - Menu - INFO - Name: notifyAll
+2014-10-05 20:39:00,554 - Menu - INFO -  
+2014-10-05 20:39:00,560 - Menu - INFO - Name: wait
+2014-10-05 20:39:00,560 - Menu - INFO -  
+2014-10-05 20:39:00,560 - Menu - INFO - Name: wait
+2014-10-05 20:39:00,561 - Menu - INFO -  
+2014-10-05 20:39:00,561 - Menu - INFO - Name: wait
+2014-10-05 20:39:00,561 - Menu - INFO -  
+2014-10-05 20:39:00,562 - Menu - INFO - 5A12X3P
+2014-10-05 20:39:00,562 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:39:54,808 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:40:02,233 - Menu - INFO - Open Methods: 
+2014-10-05 20:40:02,233 - Menu - INFO - Name: getCode
+2014-10-05 20:40:02,234 - Menu - INFO - Name: getClass
+2014-10-05 20:40:02,234 - Menu - INFO - Name: hashCode
+2014-10-05 20:40:02,238 - Menu - INFO - Name: equals
+2014-10-05 20:40:02,239 - Menu - INFO - Name: toString
+2014-10-05 20:40:02,239 - Menu - INFO - Name: notify
+2014-10-05 20:40:02,240 - Menu - INFO - Name: notifyAll
+2014-10-05 20:40:02,240 - Menu - INFO - Name: wait
+2014-10-05 20:40:02,240 - Menu - INFO - Name: wait
+2014-10-05 20:40:02,241 - Menu - INFO - Name: wait
+2014-10-05 20:40:02,241 - Menu - INFO - CODE:5A12X3P
+2014-10-05 20:40:02,242 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:40:23,286 - Menu - INFO - Open Methods: 
+2014-10-05 20:40:23,287 - Menu - INFO - Name: getCode
+2014-10-05 20:40:23,299 - Menu - INFO - Name: getClass
+2014-10-05 20:40:23,299 - Menu - INFO - Name: hashCode
+2014-10-05 20:40:23,300 - Menu - INFO - Name: equals
+2014-10-05 20:40:23,300 - Menu - INFO - Name: toString
+2014-10-05 20:40:23,300 - Menu - INFO - Name: notify
+2014-10-05 20:40:23,301 - Menu - INFO - Name: notifyAll
+2014-10-05 20:40:23,301 - Menu - INFO - Name: wait
+2014-10-05 20:40:23,301 - Menu - INFO - Name: wait
+2014-10-05 20:40:23,301 - Menu - INFO - Name: wait
+2014-10-05 20:40:23,302 - Menu - INFO - CODE:2D3G21F
+2014-10-05 20:40:23,302 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:40:24,941 - Menu - INFO - Open Methods: 
+2014-10-05 20:40:24,942 - Menu - INFO - Name: getCode
+2014-10-05 20:40:24,942 - Menu - INFO - Name: getClass
+2014-10-05 20:40:24,943 - Menu - INFO - Name: hashCode
+2014-10-05 20:40:24,943 - Menu - INFO - Name: equals
+2014-10-05 20:40:24,943 - Menu - INFO - Name: toString
+2014-10-05 20:40:24,944 - Menu - INFO - Name: notify
+2014-10-05 20:40:24,944 - Menu - INFO - Name: notifyAll
+2014-10-05 20:40:24,944 - Menu - INFO - Name: wait
+2014-10-05 20:40:24,944 - Menu - INFO - Name: wait
+2014-10-05 20:40:24,945 - Menu - INFO - Name: wait
+2014-10-05 20:40:24,945 - Menu - INFO - CODE:7W3C21N
+2014-10-05 20:40:24,946 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:46:22,230 - Menu - INFO - Open Methods: 
+2014-10-05 20:46:22,235 - Menu - INFO - Name: getCode
+2014-10-05 20:46:22,235 - Menu - INFO - Name: getClass
+2014-10-05 20:46:22,236 - Menu - INFO - Name: hashCode
+2014-10-05 20:46:22,238 - Menu - INFO - Name: equals
+2014-10-05 20:46:22,238 - Menu - INFO - Name: toString
+2014-10-05 20:46:22,238 - Menu - INFO - Name: notify
+2014-10-05 20:46:22,238 - Menu - INFO - Name: notifyAll
+2014-10-05 20:46:22,238 - Menu - INFO - Name: wait
+2014-10-05 20:46:22,239 - Menu - INFO - Name: wait
+2014-10-05 20:46:22,239 - Menu - INFO - Name: wait
+2014-10-05 20:46:22,239 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:47:28,285 - Menu - INFO - Open Methods: 
+2014-10-05 20:47:28,289 - Menu - INFO - Name: getCode
+2014-10-05 20:47:28,290 - Menu - INFO - Name: getClass
+2014-10-05 20:47:28,290 - Menu - INFO - Name: hashCode
+2014-10-05 20:47:28,292 - Menu - INFO - Name: equals
+2014-10-05 20:47:28,292 - Menu - INFO - Name: toString
+2014-10-05 20:47:28,292 - Menu - INFO - Name: notify
+2014-10-05 20:47:28,292 - Menu - INFO - Name: notifyAll
+2014-10-05 20:47:28,293 - Menu - INFO - Name: wait
+2014-10-05 20:47:28,293 - Menu - INFO - Name: wait
+2014-10-05 20:47:28,293 - Menu - INFO - Name: wait
+2014-10-05 20:47:28,293 - Menu - INFO -  
+2014-10-05 20:47:28,293 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:47:34,964 - Menu - INFO - CODE:5A12X3P
+2014-10-05 20:47:34,965 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:47:37,064 - Menu - INFO - CODE:2D3G21F
+2014-10-05 20:47:37,072 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:47:38,074 - Menu - INFO - CODE:7W3C21N
+2014-10-05 20:47:38,075 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:47:39,227 - Menu - INFO - CODE:Wrong Code Number
+2014-10-05 20:47:39,228 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:47:41,411 - Menu - INFO - CODE:5A12X3P
+2014-10-05 20:47:41,411 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:47:42,189 - Menu - INFO - CODE:2D3G21F
+2014-10-05 20:47:42,190 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:47:42,830 - Menu - INFO - CODE:7W3C21N
+2014-10-05 20:47:42,830 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 20:50:36,431 - Menu - INFO - CODE:Wrong Code Number
+2014-10-05 21:04:01,568 - Menu - INFO - Open Methods: 
+2014-10-05 21:04:01,572 - Menu - INFO - Name: getCode
+2014-10-05 21:04:01,572 - Menu - INFO - Name: getClass
+2014-10-05 21:04:01,572 - Menu - INFO - Name: hashCode
+2014-10-05 21:04:01,575 - Menu - INFO - Name: equals
+2014-10-05 21:04:01,575 - Menu - INFO - Name: toString
+2014-10-05 21:04:01,575 - Menu - INFO - Name: notify
+2014-10-05 21:04:01,575 - Menu - INFO - Name: notifyAll
+2014-10-05 21:04:01,575 - Menu - INFO - Name: wait
+2014-10-05 21:04:01,575 - Menu - INFO - Name: wait
+2014-10-05 21:04:01,575 - Menu - INFO - Name: wait
+2014-10-05 21:04:01,576 - Menu - INFO -  
+2014-10-05 21:04:01,576 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 21:04:15,358 - Menu - INFO - CODE:5A12X3P
+2014-10-05 21:04:15,359 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 21:04:18,440 - Menu - INFO - CODE:2D3G21F
+2014-10-05 21:04:18,447 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 21:04:20,479 - Menu - INFO - CODE:7W3C21N
+2014-10-05 21:04:20,479 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 21:04:22,511 - Menu - INFO - CODE:Wrong Code Number
+2014-10-05 21:04:22,512 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 21:04:25,043 - Menu - INFO - CODE:Wrong Code Number
+2014-10-05 21:04:25,043 - Menu - INFO - Enter code id. For end enter "x"
+2014-10-05 21:05:26,365 - Menu - INFO - ClassName: com.alex.myapp.MyApp
+2014-10-05 21:05:26,370 - Menu - INFO - Open Methods: 
+2014-10-05 21:05:26,370 - Menu - INFO - Name: getCode
+2014-10-05 21:05:26,370 - Menu - INFO - Name: getClass
+2014-10-05 21:05:26,372 - Menu - INFO - Name: hashCode
+2014-10-05 21:05:26,373 - Menu - INFO - Name: equals
+2014-10-05 21:05:26,373 - Menu - INFO - Name: toString
+2014-10-05 21:05:26,373 - Menu - INFO - Name: notify
+2014-10-05 21:05:26,373 - Menu - INFO - Name: notifyAll
+2014-10-05 21:05:26,373 - Menu - INFO - Name: wait
+2014-10-05 21:05:26,374 - Menu - INFO - Name: wait
+2014-10-05 21:05:26,374 - Menu - INFO - Name: wait
+2014-10-05 21:05:26,374 - Menu - INFO -  
+2014-10-05 21:05:26,374 - Menu - INFO - Enter code id(1-4). For end enter "x"
